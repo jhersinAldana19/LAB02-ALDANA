@@ -38,5 +38,6 @@
             <Button Content="Agregar" Grid.Column="0" Grid.Row="2" Grid.ColumnSpan="2" 
                 Background="YellowGreen" Width="120" Height="30" HorizontalAlignment="Center" Margin="5" />
         </Grid>
+        <!-- COMENTARIO PRUEBA -->
     </Grid>
 </Window>
